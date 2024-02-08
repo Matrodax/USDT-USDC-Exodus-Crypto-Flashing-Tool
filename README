@@ -1,0 +1,20 @@
+// Crypto Flashing Available for purchase //
+
+Telegram: @Matrodax
+
+The tool allows you to flash ERC20 Tokens on Exodus wallet and wallets that show unconfirmed transactions in balances.
+
+The tool DOES NOT work with binance, kucoin, trust. WHOEVER TELLS YOU THEY CAN FLASH IT IS A SCAMMER.
+
+Balances are not spendable !!!
+
+Tool is mainly used in SE purposes. If some websites have misconfigured payment processors to not require confirmations, they can be exploited.
+
+- TX will never be confirmed and you can cancel it at any time unless blockchain drops the transactions.
+Each transaction requires you to pay ETH transaction fee. 
+
+Example: https://imgur.com/a/tmtZl94
+
+Source code is available for purchase, MM is always accepted. If anyone does not want a MM he is a SCAMMER. Please be aware. 
+
+The tool is written in node and requires node js installed on your pc. I AM NOT responsible for the way you use this tool, it was written solely for educational purposes.
